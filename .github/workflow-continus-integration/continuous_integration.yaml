@@ -2,6 +2,7 @@ name: Continuous Integration FIAPS
 on:
     pull_request:
       branches: 
+      
         - develop
 jobs:
     tests:
